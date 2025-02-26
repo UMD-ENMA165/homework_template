@@ -6,11 +6,11 @@ You will need to clone the repository to your local computer, commit your change
 
 ## Copyright and License
 
-Text licensed under [CC-BY 4.0](LICENSE/CC-BY-4.0.md) (c) 2023 by J. E. Guyer.
+Text licensed under [CC-BY 4.0](LICENSE/CC-BY-4.0.md) (c) 2025 by J. E. Guyer.
 
-Code licensed under [BSD 3-Clause Clear](LICENSE/BSD3CLAUSE.md) (c) 2023 by J. E. Guyer.
+Code licensed under [BSD 3-Clause Clear](LICENSE/BSD3CLAUSE.md) (c) 2025 by J. E. Guyer.
 
-Student submissions licensed under [UMD Academic License](LICENSE/UMDACADEMIC.md) (c) 2023 by (*your name here*).
+Student submissions licensed under [UMD Academic License](LICENSE/UMDACADEMIC.md) (c) 2025 by (*your name here*).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: BSD 3 Clause Clear](https://img.shields.io/badge/License-BSD%203%20Clause%20Clear-lightgrey.svg)](https://choosealicense.com/licenses/bsd-3-clause-clear/)
